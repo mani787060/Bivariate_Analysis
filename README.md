@@ -48,4 +48,5 @@ To evaluate a dataset efficiently, the project leverages high-density visual str
    pip install pandas numpy seaborn matplotlib
 
 3. **Run the Notebook:**
+
    Open `bivariate_analysis.ipynb` to step through the pairwise feature interactions and correlation mappings.   
